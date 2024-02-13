@@ -80,6 +80,6 @@ plt.grid(True)
 #Plot the root of the function
 plt.plot(root, 0, '.', label = "Root")
 #Plot the function in the interval
-plt.plot(x, f(x), label = "Funcion generica")
+plt.plot(x, f(x), label = "Generic function)
 plt.ylim(-20,20)
 plt.legend()
